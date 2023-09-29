@@ -7,9 +7,9 @@
 
 ## Minhas Habilidades
 
-#### CLIQUE PARA ACESSAR MEU DESENVOLVIMENTO EM CURSO:
+#### CLIQUE NO ICONE ABAIXO PARA ACESSAR MEU DESENVOLVIMENTO EM CURSO:
 
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](#)&nbsp;
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/americomatthe/JavaCode.git)&nbsp;
 
 <img src="https://imgur.com/jiUCcCZ.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
