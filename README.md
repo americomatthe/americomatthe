@@ -7,19 +7,19 @@
 
 ## Minhas Habilidades
 
-#### CLIQUE PARA ACESSAR MEU DESENVOLVIMENTO EM CURSO:
+### CLIQUE PARA ACESSAR MEU DESENVOLVIMENTO EM CURSO:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 
 <img src="https://imgur.com/2767BCa.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-#### Estudando Atualmente:
+### Estudando Atualmente:
 
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 
-#### Ferramentas de Trabalho:
+### Ferramentas de Trabalho:
 
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
